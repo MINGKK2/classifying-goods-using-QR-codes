@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime data and local configuration
+qr_events.db
+*.db-journal
+
+# Local spreadsheet work
+node_modules/
+outputs/
+timeline_source.xlsx
+edit_timeline.mjs
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
